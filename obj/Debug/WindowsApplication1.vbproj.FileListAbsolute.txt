@@ -1,0 +1,84 @@
+c:\users\stephen.sakovitch.etudiant.001\documents\visual studio 2015\Projects\PROJET IHM\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ChoixScan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.AccueilTangscan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.partagerUneListe.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.comptesCoEtCr.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilCompte.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilListes.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheAdhérent.resources
+C:\Users\baton\Documents\IUT\IHM\Projet\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.AccueilTangscan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilProduits.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ChoixScan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.partagerUneListe.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.comptesCoEtCr.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilCompte.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilListes.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheAdhérent.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet - Essaie\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerUneListe.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.AccueilTangscan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilProduits.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerUneListe.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ChoixScan.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.partagerUneListe.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.comptesCoEtCr.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilCompte.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilListes.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheAdhérent.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerProduit.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\baton\Documents\IUT\IHM\Projet IHM - TangScan\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.AccueilTangscan.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilProduits.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerUneListe.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ChoixScan.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheProduit.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.partagerUneListe.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.comptesCoEtCr.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilCompte.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.accueilListes.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.ficheAdhérent.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.payerProduit.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\Stephen Sakovitch\Documents\PROJETS\PROJET IHM SCANETTE\Programme\Programme\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
